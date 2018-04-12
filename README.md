@@ -1,0 +1,2 @@
+# komputerki
+bajery_w_czwartki_pieciogodzinne
